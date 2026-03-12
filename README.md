@@ -45,13 +45,12 @@ Electro Service Industrie, Marokko
 
 ### Klinik-Website
 - Entwicklung einer Website für eine Klinik, auf der Patienten Termine buchen und Informationen über die Klinik einsehen können.  
-- [Projekt ansehen](https://github.com/adnane/clinic-website)
+- - [Projekt ansehen](https://github.com/Adnaneham/clinic-website)
 
 ### Virtuelles Unternehmensnetzwerk
 - Aufbau eines virtuellen Unternehmensnetzwerks mit Sicherheits- und Redundanzkonzept  
 - Mit Cisco Packet Tracer umgesetzt  
-- [Projekt ansehen](https://github.com/adnane/network-project)
-
+-[Projekt ansehen](https://github.com/Adnaneham/network-project)
 ---
 
 ## 🏆 Zertifikate & Online-Kurse
