@@ -1,6 +1,6 @@
 # Hi, I'm Adnane Hamroud 👋
 
-![Avatar](Avatar.png)
+![Avatar](https://github.com/Adnaneham/Adnane/raw/main/Avatar.jpg)
 
 **Motivierter Bewerber mit grundlegenden technischen Kenntnissen und starkem Interesse an IT, Systemen und Netzwerktechnologien.**  
 Ziel: Eine praxisnahe Ausbildung oder Tätigkeit im technischen Bereich, um meine Fähigkeiten weiter auszubauen.  
