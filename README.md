@@ -50,7 +50,7 @@ Electro Service Industrie, Marokko
 ### Virtuelles Unternehmensnetzwerk
 - Aufbau eines virtuellen Unternehmensnetzwerks mit Sicherheits- und Redundanzkonzept  
 - Mit Cisco Packet Tracer umgesetzt  
--[Projekt ansehen](https://github.com/Adnaneham/network-project)
+- -[Projekt ansehen](https://github.com/Adnaneham/network-project)
 ---
 
 ## 🏆 Zertifikate & Online-Kurse
